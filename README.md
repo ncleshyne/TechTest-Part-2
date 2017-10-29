@@ -23,5 +23,5 @@ RESTful API’s must be able to perform the following operations:
 ## Tools
 Postman was used to test the API
 
-![Imgur](https://i.imgur.com/7dlf2e0.png)
+![Imgur](https://i.imgur.com/L1s4WCy.png)
 ![Imgur](https://i.imgur.com/ylDGu0l.png)
